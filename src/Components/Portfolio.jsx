@@ -36,7 +36,12 @@ const projectList = [
       "In this article you will find an analysis of data about Barcelona.",
     url: "https://medium.com/@carlapaulinatrujilloyugar/proyecto-final-airbnb-44092593f3db",
   },
-  
+  {
+    title: " MY CURRICULUM",
+    description:
+      "IN THIS LINK YOU CAN VIEW MY ARTICLE, IN WHICH YOU CAN KNOW ME IN DETAIL",
+    url: "https://drive.google.com/file/d/18UjjyibiMA6YeWH30ijj_6UrHpeZpC9D/view?usp=sharing",
+  },
 ];
 
 const Portfolio = () => {
